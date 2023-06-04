@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class khushi5{
+public class try5 {
     public static void main(String[] args){
 
 

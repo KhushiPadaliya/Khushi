@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class khushi3 {
+public class try3 {
     public static void main(String[] args){
         System.out.println("enter a number");
 

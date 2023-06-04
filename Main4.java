@@ -1,4 +1,4 @@
-public class Preet2 {
+public class Main4 {
     public static void main(String[] args) {
         if(false) {
             System.out.println("Inside the if statement");

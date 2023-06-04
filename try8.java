@@ -1,6 +1,4 @@
-import javax.sound.midi.spi.SoundbankReader;
-
-public class Main {
+public class try8 {
 
     public static void main(String[] args) {
         boolean Preet = false;

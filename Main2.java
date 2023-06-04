@@ -1,9 +1,13 @@
+package com.khushi;
+
 public class Main2 {
-    public static void main(String[] args) {
+
+public static void main(String[] args){
+        System.out.println("before sayHi");
+        sayHi();
     }
-        String s1 = "asfdhbvbfjhvfvjnfbhrkjirvjirvrihrrtghiughrkugfiuegekjfbeiuugeiufbeuycejhcvuycjeh";
+    public static void sayHi(){
+        System.out.println("Hello from Preet Padaliya");
 
-        char c = s1.charAt(12);
     }
-
-
+}

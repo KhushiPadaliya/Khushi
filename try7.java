@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class khushi6 {
+public class try7 {
     public static void main(String[] args) {
         System.out.println("enter number1 op number2(1 * 2)");
 

@@ -1,4 +1,4 @@
-public class khushi2{
+public class try2 {
     public static void main(String[] args){
         if(true){
             System.out.println("it is cold");
